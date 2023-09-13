@@ -1,4 +1,5 @@
-SQL for Data Analysis
+## SQL for Data Analysis
+
 In this project, I used Parch and Posey database to explore different functional aspects of SQL from basic to advanced.
 
 Parch and Posey is a hypothetical paper company's sales data of different types of paper (standard, gloss, poster). The database consists of different tables linked with a database schema. If you want to create a database from scratch, you can use the already written code in the parch and posey text file, found in the Database folder.
